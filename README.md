@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/gustavomna">
-<img loading="lazy" height="180em" src="github-readme-stats-five-lovat-80.vercel.app/api/top-langs/?username=gustavomna&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="github-readme-stats-five-lovat-80.vercel.app/api?username=gustavomna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats-five-lovat-80.vercel.app/api/top-langs/?username=gustavomna&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats-five-lovat-80.vercel.app/api?username=gustavomna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
